@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+node_modules/
+.env
+.env.*
+.expo/
+.expo-shared/
+.vscode/
+.idea/
+dist/
+build/
